@@ -9,7 +9,7 @@
 - [Netplan](netplan)
 - [OpenSSH Server](openssh-server)
 - [Samba](samba)
-- [vsftpd](vsftpd)
+- [vsftpd](vsftpd.conf)
 
 ## License
 
