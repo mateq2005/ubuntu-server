@@ -8,3 +8,7 @@
 - <a href="https://github.com/mateq2005/ubuntu-server/tree/main/openssh-server">**OpenSSH Server**</a>
 - <a href="https://github.com/mateq2005/ubuntu-server/tree/main/samba">**Samba**</a>
 - <a href="https://github.com/mateq2005/ubuntu-server/tree/main/vsftpd.conf">**vsftpd**</a>
+
+<style>
+  background-color: #0d1117;
+</style>
