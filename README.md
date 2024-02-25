@@ -7,7 +7,7 @@
 - [Apache2](apache2)
 - [ISC DHCP Server](isc-dhcp-server)
 - [Netplan](netplan)
-- [OpenSSH Server](open-ssh-server)
+- [OpenSSH Server](openssh-server)
 - [Samba](samba)
 - [vsftpd](vsftpd)
 
