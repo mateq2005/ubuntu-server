@@ -8,3 +8,8 @@
 - <a href="https://github.com/mateq2005/ubuntu-server/tree/main/openssh-server">**OpenSSH Server**</a>
 - <a href="https://github.com/mateq2005/ubuntu-server/tree/main/samba">**Samba**</a>
 - <a href="https://github.com/mateq2005/ubuntu-server/tree/main/vsftpd.conf">**vsftpd**</a>
+
+## License
+
+> This project is licensed under the [ISC Licence](LICENCE.md). Feel free to modify and use it according to your needs. Refer to the license file for more details.
+
