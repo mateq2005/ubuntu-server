@@ -1,10 +1,13 @@
-# Configuration Guide
+# Hi there 👋
 
-> This guide provides step-by-step instructions to set up a basic server on **Ubuntu 20.04 LTS** with the following services:
+> ### 🔗 Portfolio Website:
+- https://mateq2005.github.io/mateq2005/
 
-- <a href="https://github.com/mateq2005/ubuntu-server/tree/main/apache2">**Apache2**</a>
-- <a href="https://github.com/mateq2005/ubuntu-server/tree/main/isc-dhcp-server">**ISC DHCP Server**</a>
-- <a href="https://github.com/mateq2005/ubuntu-server/tree/main/netplan">**Netplan**</a>
-- <a href="https://github.com/mateq2005/ubuntu-server/tree/main/openssh-server">**OpenSSH Server**</a>
-- <a href="https://github.com/mateq2005/ubuntu-server/tree/main/samba">**Samba**</a>
-- <a href="https://github.com/mateq2005/ubuntu-server/tree/main/vsftpd.conf">**vsftpd**</a>
+> ### Skills 🛠️
+- HTML
+- CSS
+- SCSS
+
+> ### Learning 📚
+- JavaScript
+- SQL
