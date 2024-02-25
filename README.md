@@ -5,11 +5,11 @@
 > This guide provides step-by-step instructions to set up a basic server on **Ubuntu 20.04 LTS** with the following services.
 
 - [Apache2](apache2)
-- [ISC DHCP Server]
-- [Netplan]
-- [OpenSSH Server]
-- [Samba]
-- [vsftpd]
+- [ISC DHCP Server](isc-dhcp-server)
+- [Netplan](netplan)
+- [OpenSSH Server](open-ssh-server)
+- [Samba](samba)
+- [vsftpd](vsftpd)
 
 ## License
 
