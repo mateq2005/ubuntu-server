@@ -1,6 +1,6 @@
 # Configuration Guide
 
-This guide provides basic configuration instructions for the following software components on a Linux system:
+This guide provides step-by-step instructions to set up a basic server on Ubuntu 20.04 LTS with the following services:
 
 1. **Apache2**
 2. **ISC DHCP Server**
